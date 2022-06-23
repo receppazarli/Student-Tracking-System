@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\AbcYazilim.OgrenciTakip.Data.dll
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\AbcYazilim.OgrenciTakip.Data.pdb
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\AbcYazilim.OgrenciTakip.Model.dll
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\AbcYazilim.OgrenciTakip.Model.pdb
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\AbcYazilim.OgrenciTakip.Model.dll.config
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\obj\Debug\AbcYazilim.OgrenciTakip.Data.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\obj\Debug\AbcYazilim.OgrenciTakip.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\obj\Debug\AbcYazilim.OgrenciTakip.Data.csproj.CopyComplete
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\obj\Debug\AbcYazilim.OgrenciTakip.Data.dll
+C:\Users\HP\source\repos\AbcYazilimOgrenciTakip\AbcYazilim.OgrenciTakip.Data\obj\Debug\AbcYazilim.OgrenciTakip.Data.pdb
